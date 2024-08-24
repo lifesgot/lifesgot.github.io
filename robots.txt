@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://lifesgot.github.io/sitemap/sitemap.txt
